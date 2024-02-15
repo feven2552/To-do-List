@@ -12,7 +12,7 @@ Welcome to the To-Do List Web App! This is a simple and intuitive web applicatio
 - User-friendly interface for easy navigation and usage.
 
 ## 📸 Screenshots
-![Screenshot](C:\Users\Feven\Desktop\Capture.PNG)
+![Screenshot](https://github.com/feven2552/-LGMVIP-Web-Task-1/assets/93426602/2b080559-7022-4a71-a4d7-2a1a8da63ad6)
 *Screenshot of the To-Do List Web App*
 
 ## 🚀 Demo
@@ -45,16 +45,5 @@ You can try out the live demo of the To-Do List Web App [here](#).
 
 Contributions are welcome! If you find any bugs 🐛 or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
-
-Special thanks to [Name] for inspiration and guidance.
-
----
-
-Feel free to replace `[here](#)` with the actual link to your live demo, `[Name]` with the name of anyone you want to acknowledge for their help or inspiration, and `[Screenshot](screenshots/todo_app_screenshot.png)` with the actual path to your screenshot file.
-
-I hope this README template helps make your project look more interactive and appealing to users! If you have any further questions or need additional assistance, feel free to ask.
